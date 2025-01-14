@@ -1,0 +1,17 @@
+# Django migration files
+*/migrations/
+
+# virtual environment
+venv/
+
+# Database files
+*.sqlite3
+*.db
+
+# Static and media files (if they're dynamically generated)
+staticfiles/
+media/
+
+
+
+
